@@ -1,4 +1,6 @@
 # testConflict
-viszlát
 bye
 m8
+hello
+hi
+bro
