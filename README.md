@@ -1,4 +1,5 @@
 # testConflict
 hello
-szia
-mizu
+hi
+what's up
+sor
