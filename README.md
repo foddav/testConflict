@@ -1,5 +1,4 @@
 # testConflict
 hello
-hi
-what's up
-sor
+bye
+what's up bro
