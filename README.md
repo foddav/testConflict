@@ -1,5 +1,6 @@
 # testConflict
+<<<<<<< HEAD
 bye
-vváltozás
-add hello 
-bro
+nem
+jo
+de igen
