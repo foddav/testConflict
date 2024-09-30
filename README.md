@@ -1,4 +1,4 @@
 # testConflict
-bye
+béna
 hello
-bro
+frankó
