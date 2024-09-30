@@ -1,4 +1,5 @@
 # testConflict
 bye
-hello
+vváltozás
+add hello 
 bro
