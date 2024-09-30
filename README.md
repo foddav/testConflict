@@ -1,1 +1,4 @@
 # testConflict
+hello
+szia
+mizu
